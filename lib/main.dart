@@ -1,11 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
-
 import 'home_page/home_page.dart';
-
 import 'login_page/login_page.dart';
 import 'model/providerrtdb.dart';
 import 'package:provider/provider.dart';
